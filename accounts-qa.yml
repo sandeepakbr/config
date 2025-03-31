@@ -1,0 +1,11 @@
+build:
+   version: "2.0"
+   
+accounts:
+ message: "Welcome to easy bank Accounts Relatyed QA API's"
+ contactDetails:
+   name: "Sandy K-QA Lead"
+   email: "sandeepnishadji8Q@gmail.com"
+ onCallSupport:
+  -(666)265-3765
+  -(666)734-8371

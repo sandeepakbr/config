@@ -1,0 +1,11 @@
+build:
+   version: "1.0"
+   
+accounts:
+ message: "Welcome to easy bank Accounts Relatyed Prod API's"
+ contactDetails:
+   name: "Sandy K-prod Lead"
+   email: "sandeepnishadji9g@gmail.com"
+ onCallSupport:
+  -(666)265-3765
+  -(666)734-8371
