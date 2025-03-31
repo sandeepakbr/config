@@ -1,0 +1,11 @@
+build:
+   version: "2.0"
+   
+accounts:
+ message: "Welcome to easy bank Customer Relatyed Dev API's"
+ contactDetails:
+   name: "Sandy K-DEV Lead"
+   email: "sandeepnishadji7g@gmail.com"
+ onCallSupport:
+  -(666)265-3765
+  -(666)734-8371
